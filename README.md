@@ -1,4 +1,6 @@
 # Supermaket-sales-analysis
+Python and Power BI
+
 
 There are two exhibitions in this project: one is data analysis using Python, the other is data visualizaion using Power BI. 
 
